@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JongseokYu
-- 👀 I’m interested in @Data Analytics
+- 👀 I’m interested in @Data_Analytics
 - 🌱 I’m currently studying @Library and Information Science & @Statistics at @Sungkyunkwan University
 
 <!---
